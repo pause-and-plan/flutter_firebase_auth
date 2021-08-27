@@ -1,0 +1,6 @@
+name: auth_repo
+description: Dart package wich manage the authentification domain.
+publish_to: none
+
+environment:
+  sdk: ">=2.12.0-0 <3.0.0"
